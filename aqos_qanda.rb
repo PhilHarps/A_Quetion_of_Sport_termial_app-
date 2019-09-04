@@ -6,7 +6,7 @@ class QandA
         @q_and_as = q_and_as
     end
 
-    def startQuiz
+    def startQuiz # method that loops thru the questions, keeps your score and tells the score at the end of the game
         
         score = 0
         for qanda in @q_and_as

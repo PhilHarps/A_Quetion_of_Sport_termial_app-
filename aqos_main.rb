@@ -1,8 +1,8 @@
 
 require "colorize"
-require "artii"
-require_relative "aqos_uk_quiz"
-require_relative "aqos_qanda"
+require "artii" 
+require_relative "aqos_uk_quiz" 
+require_relative "aqos_qanda" 
 
 
 def showWelcome
@@ -17,11 +17,11 @@ def showWelcome
     puts ("#{line2}\n").colorize(:red)
     puts ("#{line3}\n").colorize(:blue)
 
-    loop do
-        input = gets.chomp
+    loop do # loops thru given input "y" or "yes" starts the game "n" or "no" exits the game, any other key will get an invalid error.
+        input = gets.chomp 
         case input.downcase
             when "y", "yes"
-                UK_QUIZ.startQuiz
+                UK_QUIZ.startQuiz #starts game
                 break
             when "n", "no"
                 #quit game
@@ -29,12 +29,12 @@ def showWelcome
                 exit
             else
                 puts "Invalid entry"
-                puts ("#{line3}\n").colorize(:blue)
+                puts ("#{line3}\n").colorize(:blue) #loops back to prompt
         end
     end
 end
 
-showWelcome
+showWelcome #calling showWelcome method
 
 
 

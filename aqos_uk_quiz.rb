@@ -12,7 +12,7 @@ eq8 = "Which County are the Cheese Rolling Championships held?\n(a) Leicester\n(
 eq9 = "Who won the 2019 London Marathon?\n(a) Eliud Kipchoge\n(b) Mo Farah\n(c) Haile Gebrselassie\n(d) Daniel Wanjiru"
 eq10 = "What year did the English Premier league start?\n(a) 1982\n(b) 1992\n(c) 2002\n(d) 2012"
 
-q_and_as = [
+q_and_as = [                        
     {question: eq1, answer: "c"},
     {question: eq2, answer: "a"},
     {question: eq3, answer: "c"},
@@ -23,6 +23,6 @@ q_and_as = [
     {question: eq8, answer: "b"},
     {question: eq9, answer: "a"},
     {question: eq10,answer:  "b"}
-]
+]                                       
 
 UK_QUIZ = QandA.new(q_and_as)
