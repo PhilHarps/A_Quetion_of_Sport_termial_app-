@@ -1,7 +1,9 @@
 
 require "colorize"
 require "artii"
+require_relative "aqos_uk_quiz"
 require_relative "aqos_qanda"
+
 
 def showWelcome
     line1 = Artii::Base.new :font => 'doom'
@@ -19,8 +21,7 @@ def showWelcome
         input = gets.chomp
         case input.downcase
             when "y", "yes"
-                quizGame = QuizGame.new
-                quizGame.startQuiz
+                UK_QUIZ.startQuiz
                 break
             when "n", "no"
                 #quit game
