@@ -45,7 +45,7 @@ Open up terminal and navigate to the directory that contains the terminal app fi
 
 ### User Workflow
 
-![Show Menu](https://github.com/PhilHarps/A_Quetion_of_Sport_termial_app-/blob/master/jpegs/AQOS%20User%20Workflow.jpeg)
+![Show Menu](https://github.com/PhilHarps/A_Quetion_of_Sport_termial_app-/blob/master/jpegs/AQOS1%20User%20Workflow.jpeg)
 
 
 ### List of Tools Used
