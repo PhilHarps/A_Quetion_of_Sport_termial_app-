@@ -34,15 +34,7 @@ I used the following gems in this program
 ### Loading the app:
 Open up terminal and navigate to the directory that contains the terminal app files and type aqos_main.rb. This will open the main page where you can select to start the game by pressing "y" or "n" to exit the game. Once the game starts you answer the question by selecting the letter next what you think the answer is e.g. "a", "b', "c" and "d". At the end of the game it will tell you your total correct.
 
-### List of Tools Used
-- Visual Studio Code
-- GitHub
-- Ubuntu Terminal
-- Trello
-- Slack
-- Stackedit
-- Lucidchart
-## Screenshots
+
 ### Main Page
 
 ![Show Menu](https://github.com/PhilHarps/A_Quetion_of_Sport_termial_app-/blob/master/jpegs/Main%20Page.JPG)
@@ -55,9 +47,6 @@ Open up terminal and navigate to the directory that contains the terminal app fi
 
 ![Show Menu](https://github.com/PhilHarps/A_Quetion_of_Sport_termial_app-/blob/master/jpegs/AQOS%20User%20Workflow.jpeg)
 
-
-### Loading the app:
-Open up terminal and navigate to the directory that contains the terminal app files and type aqos_main.rb. This will open the main page where you can select to start the game by pressing "y" or "n" to exit the game. Once the game starts you answer the question by selecting the letter next what you think the answer is e.g. "a", "b', "c" and "d". At the end of the game it will tell you your total correct.
 
 ### List of Tools Used
 - Visual Studio Code
