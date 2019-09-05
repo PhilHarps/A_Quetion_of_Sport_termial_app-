@@ -8,7 +8,7 @@
   I decided on creating a multiple choice sports quiz incorporating the coding skills I have obtained during the first few weeks of Coder Academy.
 ## Aim
 
-The aim of the game is to get as many questions correct. Each question has four options for answers. If you don"t know have a guess!
+The aim of the game is to get as many questions correct. Each question has four options for answers. If you don't know have a guess!
 
 
 
@@ -45,7 +45,7 @@ Open up terminal and navigate to the directory that contains the terminal app fi
 ## Screenshots
 ### Main Page
 
-![Show Menu](https://https://github.com/PhilHarps/A_Quetion_of_Sport_termial_app-/blob/master/jpegs/Main%20Page.JPG)
+![Show Menu](https://github.com/PhilHarps/A_Quetion_of_Sport_termial_app-/blob/master/jpegs/Main%20Page.JPG)
 
 ### Main Game
 
