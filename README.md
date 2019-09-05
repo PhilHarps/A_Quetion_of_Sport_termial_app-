@@ -29,6 +29,8 @@ I used the following gems in this program
 [https://rubygems.org/gems/colorize/versions/0.8.1](https://rubygems.org/gems/colorize/versions/0.8.1)
 - artii
 [https://rubygems.org/gems/artii/versions/2.1.2](https://rubygems.org/gems/artii/versions/2.1.2)
+- test-unit
+[https://rubygems.org/gems/test-unit/versions/3.1.8](https://rubygems.org/gems/test-unit/versions/3.1.8)
 
 
 ### Loading the app:
@@ -56,6 +58,11 @@ Open up terminal and navigate to the directory that contains the terminal app fi
 - Slack
 - Stackedit
 - Lucidchart
+
+### Future Updates
+- Add more question groups (e.g. US Sports quiz, Aus Sports quiz, etc)
+- Add a help option to the main menu
+- Add different responses to different scores(e.g. "1 out of 10 Rubbish!!")
 
 
 
