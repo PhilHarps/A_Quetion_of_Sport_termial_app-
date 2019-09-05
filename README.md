@@ -1,3 +1,4 @@
+
 # Terminal App Project in Ruby
 ## Coder Academy Boot Camp September 2019
 
@@ -28,6 +29,31 @@ I used the following gems in this program
 [https://rubygems.org/gems/colorize/versions/0.8.1](https://rubygems.org/gems/colorize/versions/0.8.1)
 - artii
 [https://rubygems.org/gems/artii/versions/2.1.2](https://rubygems.org/gems/artii/versions/2.1.2)
+
+
+### Loading the app:
+Open up terminal and navigate to the directory that contains the terminal app files and type aqos_main.rb. This will open the main page where you can select to start the game by pressing "y" or "n" to exit the game. Once the game starts you answer the question by selecting the letter next what you think the answer is e.g. "a", "b', "c" and "d". At the end of the game it will tell you your total correct.
+
+### List of Tools Used
+- Visual Studio Code
+- GitHub
+- Ubuntu Terminal
+- Trello
+- Slack
+- Stackedit
+- Lucidchart
+## Screenshots
+### Main Page
+
+![Show Menu](https://https://github.com/PhilHarps/A_Quetion_of_Sport_termial_app-/blob/master/jpegs/Main%20Page.JPG)
+
+### Main Game
+
+![Show Menu](https://github.com/PhilHarps/A_Quetion_of_Sport_termial_app-/blob/master/jpegs/Main%20Gme.JPG)
+
+### User Workflow
+
+![Show Menu](https://github.com/PhilHarps/A_Quetion_of_Sport_termial_app-/blob/master/jpegs/AQOS%20User%20Workflow.jpeg)
 
 
 ### Loading the app:
